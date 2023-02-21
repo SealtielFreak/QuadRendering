@@ -1,4 +1,4 @@
-# thread_rendering
+# QuadTree-Sorting Multithreaded Rendering, aka: "QuadRendering"
 
 Original sketch in Google Colab for demostration and testing:
 
